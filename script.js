@@ -26,3 +26,5 @@ function binary(decimal) {
     }
     return result.join('');
   }
+
+  module.exports = binary;
