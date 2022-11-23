@@ -1,8 +1,6 @@
-//chai dependencies
+// dependencies
 const chai = require('chai');
 const assert = chai.assert;
-
-//functions for testing
 const binary = require('../binary')
 
 //binary(decimbal) tests

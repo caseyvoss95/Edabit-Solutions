@@ -2,7 +2,7 @@
   "name": "edabit",
   "version": "1.0.0",
   "description": "edabit solutions",
-  "main": "script.js",
+  "main": "countTrue.js",
   "scripts": {
     "test": "mocha"
   },
