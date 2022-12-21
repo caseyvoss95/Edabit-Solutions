@@ -1,5 +1,4 @@
-//Challenge: Convert a Number to Base-2
-//https://edabit.com/challenge/3kcrnpHk7krNZdnKK
+//Challenge Name: Convert a Number to Base-2
 //Purpose: convert base-10 number to binary
 //Input: Non-Negative Integer (type: number)
 //Output: A string composed of 1's and 0's that represents a binary number
