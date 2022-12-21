@@ -16,4 +16,6 @@ function countTrue(arr){
     return result;
 }
 
+module.exports = countTrue;
+
 console.log(countTrue([3, 7, 8, 0, "", "beyonce"]));

@@ -1,4 +1,0 @@
-// dependencies
-const chai = require('chai');
-const assert = chai.assert;
-const binary = require('../countTrue')
